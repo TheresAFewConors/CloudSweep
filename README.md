@@ -1,4 +1,13 @@
 
+<div align="center">
+
+  <a href="">[![Made with - PowerShell](https://img.shields.io/badge/Made_with-PowerShell-blue)](https://github.com/theresafewconors/mssprinkler)</a>
+  <a href="">[![License - MIT](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/theresafewconors/mssprinkler)</a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheresAFewConors%2FCloudSweep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="">[![Current Version](https://img.shields.io/badge/Current_Version-0.1-lightblue)](https://github.com/theresafewconors/mssprinkler)</a>
+
+</div>
+
 # CloudSweep
 A highly configurable PowerShell application to provide an automated, repeatable and extendable framework to detect attack activity in EntraID.
 
