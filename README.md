@@ -35,6 +35,7 @@ CloudSweep is designed for IR teams during an active intrusion to rapidly collec
 - OAuth2 Applications with suspicious naming conventions (non-alphanumeric names or contain the word "test", etc.).
 - OAuth2 Applications that match existing usernames or service principal IDs, automatically normalizing for common permutations
 - Suspicious user-agents used to authenticate
+- Accounts that may be backdoored via OAuth consent attacks.
 
 ## Features
 Quickly review OAuth applications within EntraID looking for potentially malicious indicators, while also printing out the assigned permissions in human-readable format:
