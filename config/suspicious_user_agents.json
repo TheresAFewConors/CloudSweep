@@ -9,7 +9,6 @@
     "Java/",
     "Go-http-client/",
     "fasthttp",
-    "BAV2ROPC",
-    "Browser"
+    "BAV2ROPC"
   ]
 }
