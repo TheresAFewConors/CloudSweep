@@ -1,0 +1,108 @@
+[
+    {
+        "DisplayName":  "!!$#",
+        "AppId":  "b1650658-c822-45f8-aa7d-1c1fcd61c817",
+        "ObjectId":  "1178d092-f308-4dd1-9c6b-eb4b9f6d2c8a",
+        "RegisteredOn":  "2025-02-10T15:04:44Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "User.Read | Type: Delegated",
+                            "Mail.ReadWrite | Type: Application",
+                            "Mail.Send | Type: Application",
+                            "MailboxFolder.ReadWrite.All | Type: Application",
+                            "MailboxItem.ImportExport.All | Type: Application"
+                        ],
+        "SuspiciousName":  true
+    },
+    {
+        "DisplayName":  "persistenceFinder",
+        "AppId":  "18ad740b-877c-4913-86ca-cdd7ade2d151",
+        "ObjectId":  "4ee1d290-f830-4ea0-9dd2-2a37e4e10c1c",
+        "RegisteredOn":  "2025-02-06T13:03:46Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "Application.Read.All | Type: Application",
+                            "AuditLog.Read.All | Type: Application",
+                            "AuthenticationContext.Read.All | Type: Application",
+                            "Directory.Read.All | Type: Application",
+                            "User.Read.All | Type: Application",
+                            "UserAuthenticationMethod.Read.All | Type: Application",
+                            "Policy.Read.All | Type: Application"
+                        ],
+        "SuspiciousName":  false
+    },
+    {
+        "DisplayName":  "maliciousOAuth",
+        "AppId":  "1d086396-5271-481b-932a-8353064921de",
+        "ObjectId":  "a93a9529-0364-4608-bb1d-b336904ea8f2",
+        "RegisteredOn":  "2025-02-18T14:43:52Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "User.Read | Type: Delegated"
+                        ],
+        "SuspiciousName":  false
+    },
+    {
+        "DisplayName":  "diya.fatima",
+        "AppId":  "b5c99681-e441-424d-9f4b-3a304363db28",
+        "ObjectId":  "c2241a7c-28c7-413f-a793-4e6677b8aa90",
+        "RegisteredOn":  "2025-02-11T14:49:18Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "User.Read | Type: Delegated"
+                        ],
+        "SuspiciousName":  false
+    },
+    {
+        "DisplayName":  "malicioustestapp",
+        "AppId":  "f33c7a26-fc90-4488-985c-a8f17fe67166",
+        "ObjectId":  "c4f4ea74-5c8a-4118-a3d5-939fd2c40ace",
+        "RegisteredOn":  "2025-02-06T14:54:36Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "User.Read | Type: Delegated"
+                        ],
+        "SuspiciousName":  true
+    },
+    {
+        "DisplayName":  "dfatima",
+        "AppId":  "b6f4d787-7ced-499d-abc3-bc95c3ac90fa",
+        "ObjectId":  "d3869398-77d5-49b2-b7c3-55b8d60812e3",
+        "RegisteredOn":  "2025-02-11T14:41:44Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "User.Read | Type: Delegated"
+                        ],
+        "SuspiciousName":  false
+    },
+    {
+        "DisplayName":  "diya fatima",
+        "AppId":  "c7c9c66f-257a-443f-bd04-245cd5499d43",
+        "ObjectId":  "e66a2359-0e79-4eee-b72c-dffd29e85dba",
+        "RegisteredOn":  "2025-02-11T14:37:55Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "User.Read | Type: Delegated"
+                        ],
+        "SuspiciousName":  false
+    },
+    {
+        "DisplayName":  "mssprinkler",
+        "AppId":  "5aa316d3-d05a-485f-a849-e05182f87d1d",
+        "ObjectId":  "ec448143-d3bb-4f9c-8645-006d834684ce",
+        "RegisteredOn":  "2024-09-13T15:03:45Z",
+        "Status":  "Unknown",
+        "Permissions":  [
+                            "Chat.ReadWrite | Type: Delegated",
+                            "email | Type: Delegated",
+                            "Mail.Read | Type: Delegated",
+                            "offline_access | Type: Delegated",
+                            "openid | Type: Delegated",
+                            "profile | Type: Delegated",
+                            "User.Read | Type: Delegated",
+                            "User.ReadBasic.All | Type: Delegated",
+                            "User.ReadWrite | Type: Delegated"
+                        ],
+        "SuspiciousName":  false
+    }
+]

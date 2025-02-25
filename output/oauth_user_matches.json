@@ -1,0 +1,46 @@
+[
+    {
+        "AppRoles":  [
+
+                     ],
+        "DisplayName":  "diya.fatima",
+        "ObjectId":  "c2241a7c-28c7-413f-a793-4e6677b8aa90",
+        "AppId":  "b5c99681-e441-424d-9f4b-3a304363db28",
+        "CreatedDateTime":  "2025-02-11T14:49:18Z",
+        "SignInAudience":  "AzureADMultipleOrgs",
+        "RequiredResourceAccess":  [
+                                       {
+                                           "resourceAppId":  "00000003-0000-0000-c000-000000000000",
+                                           "resourceAccess":  [
+                                                                  {
+                                                                      "id":  "e1fe6dd8-ba31-4d61-89e7-88639da4683d",
+                                                                      "type":  "Scope"
+                                                                  }
+                                                              ]
+                                       }
+                                   ],
+        "PublisherDomain":  "butchermedical.com"
+    },
+    {
+        "AppRoles":  [
+
+                     ],
+        "DisplayName":  "diya fatima",
+        "ObjectId":  "e66a2359-0e79-4eee-b72c-dffd29e85dba",
+        "AppId":  "c7c9c66f-257a-443f-bd04-245cd5499d43",
+        "CreatedDateTime":  "2025-02-11T14:37:55Z",
+        "SignInAudience":  "AzureADMultipleOrgs",
+        "RequiredResourceAccess":  [
+                                       {
+                                           "resourceAppId":  "00000003-0000-0000-c000-000000000000",
+                                           "resourceAccess":  [
+                                                                  {
+                                                                      "id":  "e1fe6dd8-ba31-4d61-89e7-88639da4683d",
+                                                                      "type":  "Scope"
+                                                                  }
+                                                              ]
+                                       }
+                                   ],
+        "PublisherDomain":  "butchermedical.com"
+    }
+]

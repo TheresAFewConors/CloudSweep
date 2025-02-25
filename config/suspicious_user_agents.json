@@ -1,0 +1,15 @@
+{
+  "suspiciousAgents": [
+    "curl/",
+    "python-requests/",
+    "WinHTTP",
+    "PostmanRuntime",
+    "Scrapy",
+    "Wget",
+    "Java/",
+    "Go-http-client/",
+    "fasthttp",
+    "BAV2ROPC",
+    "Browser"
+  ]
+}
