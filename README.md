@@ -83,3 +83,6 @@ Analysis is based on the following research linked below:
 - [Microsoft OAuth Attack Flow](https://www.microsoft.com/en-us/security/blog/2023/12/12/threat-actors-misuse-oauth-applications-to-automate-financially-driven-attacks/)
 - [WIZ OAuth Attack Writeup](https://www.wiz.io/blog/midnight-blizzard-microsoft-breach-analysis-and-best-practices)
 - [PerfectData Software OAuth Attack WriteUp](https://cybercorner.tech/malicious-azure-application-perfectdata-software-and-office365-business-email-compromise/)
+
+## Disclaimer
+CloudSweep is only to be used within environments that you either own or have permission to test. This tool will assist with detecting potential threats, however use of this tool does not mean you have detected all potential threats. Regular auditing with a diverse set of tools is recommended. The author accepts no liability for actions taken by its users. 
