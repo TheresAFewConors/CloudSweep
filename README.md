@@ -62,6 +62,12 @@ A configurable whitelist is provided to prevent known-good applications within y
    <img src="./images/whitelist.PNG" width="400">
 </div>
 
+Identify potentially backdoored accounts through OAuth consent attacks, and saves full signin logs from identified logins to `output/signin_logs.json`:
+
+<div align="center">
+   <img src="./images/backdoored.PNG">
+</div>
+
 ## Setup 
 1. Create a new OAuth2 Application
 2. Copy the Client Secret and App (client) ID.
